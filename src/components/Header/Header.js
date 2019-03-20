@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header>
+    <header className="headerComponent">
       <nav className="navbar navbar-inverse">
         <div className="container-fluid">
           <div className="container">
